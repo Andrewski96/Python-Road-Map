@@ -1,0 +1,5 @@
+noun = input('Enter a noun: ')
+verb = input('Enter a verb: ')
+adj = input('Enter an adjective: ')
+print('Here\'s your story:\n')
+print(f'The {adj} {noun} loves to {verb} every morning!')
